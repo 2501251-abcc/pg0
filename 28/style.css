@@ -1,0 +1,22 @@
+nav{
+    position: fixed;top: 0;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+nav ul{
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+}
+nav a{
+    padding: 10px;
+    color: blue;
+    text-decoration: none;
+}
+.top{
+    display: flex;
+    padding: 30px;
+}
