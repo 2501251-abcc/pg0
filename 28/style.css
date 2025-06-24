@@ -19,4 +19,13 @@ nav a{
 .top{
     display: flex;
     padding: 30px;
+    background-color: cadetblue;
+}
+img{
+    width: 350px;
+    height: auto;
+    padding-top: 30px;
+}
+.top h1{
+    margin: auto;
 }
